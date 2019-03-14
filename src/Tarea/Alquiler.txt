@@ -1,0 +1,14 @@
+ 
+ dni: 12341234b
+ nombre: juan
+ direccion: platon
+ localidad: vicar
+ codigoPostal: 04713
+# 
+ matricula: 1234bbb
+ marca: renault
+ modelo: laguna
+ cilindrada: 123
+ El tipo combustible es: DIESEL
+ El tipo de caja de cambios es: MANUAL
+ Descapotable: true
